@@ -13,10 +13,10 @@ friends <- 3
 meal.price <- 10
 
 # Create a variable `total.cost` that has the total cost of your bill
-total.cost = meal.price
+total.cost <- meal.price
 
 # Create a variable 'total.cost.tip' to be the total cost including a 15% tip
-total.cost.tip = total.cost + (total.cost * 0.15)
+total.cost.tip <- total.cost + (total.cost * 0.15)
 
 # Create a variable 'price.limit' set to your spending budget
 price.limit <- 50
